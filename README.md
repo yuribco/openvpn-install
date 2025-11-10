@@ -1,3 +1,6 @@
+TUTORIAL: Vídeo disponível no [YOUTUBE]([https://github.com/Nyr/wireguard-install](https://www.youtube.com/watch?v=vdAp8zdGeHs&t=83s))
+
+
 **New: [wireguard-install](https://github.com/Nyr/wireguard-install) is also available.**
 
 ## openvpn-install
